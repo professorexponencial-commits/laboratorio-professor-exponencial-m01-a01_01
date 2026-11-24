@@ -1,0 +1,14 @@
+LABORATÓRIO DO PROFESSOR EXPONENCIAL — PACOTE MASTER M01 A01
+
+REPOSITÓRIO PROPOSTO: laboratorio-professor-exponencial-m01-a01
+LINK PREVISTO: https://professorexponencial-commits.github.io/laboratorio-professor-exponencial-m01-a01/
+
+ATENÇÃO: ESSE NOVO REPOSITÓRIO AINDA PRECISA SER CRIADO; o endereço acima só funcionará depois do envio e da ativação do GitHub Pages.
+
+01_PUBLICAR_NO_GITHUB: envie o conteúdo INTEIRO dessa pasta ao seu novo repositório GitHub, incluindo index.html, .nojekyll, README.md e as três imagens.
+02_CODIGO_FONTE_HOTMART: texto HTML estático para colar no editor de código da descrição da Aula 01; a prévia offline já contém as imagens, mas NÃO é o código a colar.
+03_MATERIAIS_DE_APOIO_NAO_PUBLICAR: os dois PDFs originais, para serem anexados à Hotmart; não vão ao GitHub público.
+04_IDENTIDADE_VISUAL_E_REFERENCIAS: logo branco baseado no oficial, versão preta original e ilustração dos professores.
+05_PADRAO_PROXIMAS_AULAS: guia, prompt mestre e checklist para repetir o padrão nas demais aulas.
+
+O laboratório usa salvamento local do navegador, backup exportável, impressão e caderno. Não envia dados a um servidor. O editor da Hotmart pode modificar HTML e bloquear imagens; validar após salvar em celular real.
